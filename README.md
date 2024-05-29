@@ -10,7 +10,7 @@ A simple Python library for generating random passwords.
 - Easy to use.
 
 ## Installation
-No installation required. Just download the `passwordgen` and `password_strength.py` files and include them in your project.
+No installation required. Just download the `passwordgen` and `password_strength` files and include them in your project.
 
 ## Usage
 
